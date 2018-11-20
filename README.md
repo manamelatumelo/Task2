@@ -17,7 +17,7 @@ tasks that are to be perform are as follows.
 	 3. Add users with the details provided on the assesment documents.
 
 * Tools/Techonlogy used
-	1. For this test case I created a  console application (C#) .net 4.7.2 
+	1. For this test case I created a UnitTest .NetFrameWork 4.7.2 Project 
 	2. installed Selenium webdriver package for solution 
 	3. installed chrome drive from the Packages for solution
 	4. installed NUnitFramework
